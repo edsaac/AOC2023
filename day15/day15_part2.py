@@ -1,3 +1,5 @@
+# Answer: 236057
+
 from dataclasses import dataclass
 from typing import Literal
 from collections import OrderedDict
